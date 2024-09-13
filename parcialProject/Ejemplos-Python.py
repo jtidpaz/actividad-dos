@@ -62,7 +62,7 @@ print("Aqui vemos la Cadena sin espacios:", cadena_sin_espacios)
 
 # Reemplazar un texto específico por otro
 cadena_original = "juan carlos le gusta el futbol en sintetica"
-cadena_reemplazada = cadena_original.replace("juan", "le gusta")
+cadena_reemplazada = cadena_original.replace("juan", "los dias domingos a")
 print("Cadena reemplazada:", cadena_reemplazada)
 
 # Dividir una cadena en una lista de palabras
